@@ -1,7 +1,6 @@
  <table>
   <tr>
     <td><img src="https://github.com/Nayemhasan/Nayemhasan/blob/main/melon/flower_eating.gif"</td>
-    <td><img src="https://github.com/Nayemhasan/Nayemhasan/blob/main/melon/melon3.gif"</td>
   </tr>
  </table>
 
