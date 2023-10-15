@@ -6,6 +6,15 @@ Here are some cool Magisk modules to amp up your phone experience!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Project_Atlas&theme=dark)](https://github.com/Nayemhasan/Project_Atlas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Increase_Touch_Sample_Rate&theme=dark)](https://github.com/Nayemhasan/Increase_Touch_Sample_Rate)
 
+### Baked someting 🍉 for My Asus Rog Phone II
+Goodies tailor-made for the Asus ROG 2!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Auto-Refresh-Rate-enabler-for-Asus-Rog2&theme=dark)](https://github.com/Nayemhasan/Auto-Refresh-Rate-enabler-for-Asus-Rog2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=&theme=dark)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=&theme=dark)]()
+
+
+
 
 
 
