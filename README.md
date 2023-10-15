@@ -1,5 +1,5 @@
 <details>
-<summary>Some cool stuffz for windows pc's🍉</summary>
+<summary>Some cool stuffz for windows pc's🖥</summary>
 Here are some awesome Windows apps/mods to enhance your computer experience!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=watermelonvault&repo=Melon_booster&theme=dark)](https://github.com/watermelonvault/Melon_booster)
@@ -11,7 +11,7 @@ Here are some awesome Windows apps/mods to enhance your computer experience!
 </details>
 
 <details>
-<summary>Cool Magisk Modules🍉</summary>
+<summary>Cool Magisk Modules⚡</summary>
 Here are some cool Magisk modules to amp up your phone experience!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Disable_Zram&theme=dark)](https://github.com/Nayemhasan/Disable_Zram)
@@ -31,8 +31,8 @@ Goodies tailor-made for the Asus ROG 2!
 </details>
 
 <details>
-<summary>Complete project with AI</summary>
-An working webapp backed with ai to help you understand your heart
+<summary>Complete project with AI🚀</summary>
+An working webapp backed with ai to help you understand your heart❤
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Heart_Failure_Prediction&theme=dark)](https://github.com/Nayemhasan/Heart_Failure_Prediction)
 </details>
