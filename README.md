@@ -1,5 +1,5 @@
 <details>
-<summary>### Some cool stuffz for windows pc's🍉</summary>
+<summary>Some cool stuffz for windows pc's🍉</summary>
 <br>
 Here are some awesome Windows apps/mods to enhance your computer experience!
 
