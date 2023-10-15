@@ -1,7 +1,4 @@
 # Welcome to My GitHub Profile
-
-![Watermelon](https://avatars.githubusercontent.com/u/47113363?v=4)
-
 Hello, and welcome to my GitHub profile! Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
 
 ## My Repositories
