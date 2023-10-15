@@ -1,8 +1,11 @@
-### Hello, NAYEM here!👋
+
+<table>
+   <tr>
+      <td>### Hello, NAYEM here!👋
 <img src="melon/picme.png">
 & welcome to my GitHub profile! 
-
-### About Me🍉
+</td>
+      <td>### About Me🍉
 
 🍊 born in Bangladesh
 
@@ -10,7 +13,10 @@
 
 💻 ui~ux & computer enthusiast
 
-🌳 looking for balance in life
+🌳 looking for balance in life</td>
+  </tr>
+</table>
+
 
 
 ### My Pins📌
