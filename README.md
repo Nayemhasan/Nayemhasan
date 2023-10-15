@@ -7,7 +7,7 @@
 </div>
 </td>
      <td style="vertical-align: top;">
-  <h2>About Me🍉</h2>
+  <h3>About Me🍉</h3>
   <ul>
     <li>🍊 Born in Bangladesh</li>
     <li>🍉 Loves minimalism, speed & optimization</li>
