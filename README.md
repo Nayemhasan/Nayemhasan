@@ -24,7 +24,7 @@
 Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
 <br>
 <details>
-<summary><u>Some cool stuffz for windows pc's🖥</u></summary>
+<summary>Some cool stuffz for windows pc's🖥</summary>
 Here are some awesome Windows apps/mods to enhance your computer experience!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=watermelonvault&repo=Melon_booster&theme=dark)](https://github.com/watermelonvault/Melon_booster)
