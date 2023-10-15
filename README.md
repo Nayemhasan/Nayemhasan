@@ -1,23 +1,25 @@
-<table>
-   <tr>
+<div style="display: flex; justify-content: space-between;">
+  <table>
+    <tr>
       <td>
-         <div style="display: flex; align-items: center;">
-  <img src="melon/picme.png" style="margin-right: 10px;">
-  <p>Hello, NAYEM here!👋<br>& welcome to my GitHub profile!</p>
+        <div style="display: flex; align-items: center;">
+          <img src="melon/picme.png" style="margin-right: 10px;">
+          <p>Hello, NAYEM here!👋<br>& welcome to my GitHub profile!</p>
+        </div>
+      </td>
+      <td style="vertical-align: top;">
+        <h3 align="center">About Me🍉</h3>
+        <ul>
+          <li>🍊 Born in Bangladesh</li>
+          <li>🍉 Loves minimalism, speed & optimization</li>
+          <li>💻 UI/UX & computer enthusiast</li>
+          <li>🌳 Looking for balance in life</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
-</td>
-     <td style="vertical-align: top;">
-  <h3 align="center">About Me🍉</h3>
-  <ul>
-    <li>🍊 Born in Bangladesh</li>
-    <li>🍉 Loves minimalism, speed & optimization</li>
-    <li>💻 UI/UX & computer enthusiast</li>
-    <li>🌳 Looking for balance in life</li>
-  </ul>
-</td>
 
-  </tr>
-</table>
 
 ### My Pins📌
 Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
