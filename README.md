@@ -9,7 +9,7 @@
       </td>
       <td style="vertical-align: top;">
         <h3 align="center">About Me🍉</h3>
-<ul style="list-style-type: none;">
+        <ul style="list-style-type: none;">
   <li>🍊 Born in Bangladesh</li>
   <li>🍉 Loves minimalism, speed & optimization</li>
   <li>💻 UI/UX & computer enthusiast</li>
