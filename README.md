@@ -1,3 +1,19 @@
+# Welcome to My GitHub Profile
+
+Hello, and welcome to my GitHub profile! Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
+
+### About Me
+
+🍊 born in Bangladesh
+
+🍉 loves minimalism, speed & optimization
+
+💻 ui~ux & computer enthusiast
+
+🌳 looking for balance in life
+
+
+
 ### Some cool stuffz for windows pc's🍉
 Here are some awesome Windows apps/mods to enhance your computer experience!
 
