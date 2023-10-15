@@ -1,8 +1,11 @@
 <table>
    <tr>
       <td>
-         <img src="melon/picme.png">
-             Hello, NAYEM here!👋 & welcome to my GitHub profile!</td>
+         <div style="display: flex; align-items: center;">
+  <img src="melon/picme.png" style="margin-right: 10px;">
+  <p>Hello, NAYEM here!👋 & welcome to my GitHub profile!</p>
+</div>
+</td>
       <td>   About Me🍉
           <ul>
             <li>🍊 Born in Bangladesh</li>
