@@ -1,6 +1,5 @@
-### Welcome to My GitHub👋
-
-Hello, NAYEM here! and welcome to my GitHub profile! 
+### Hello, NAYEM here!👋
+& welcome to my GitHub profile! 
 
 ### About Me🍉
 
