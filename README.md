@@ -28,6 +28,14 @@ Goodies tailor-made for the Asus ROG 2!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Dualband_wifi_enabler_RogII&theme=dark)](https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Auto-Refresh-Rate-enabler-for-Asus-Rog2&theme=dark)](https://github.com/Nayemhasan/Auto-Refresh-Rate-enabler-for-Asus-Rog2)
 
+<br>
+
+### Completed project with AI
+An working webapp backed with ai to help you understand your heart
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Heart_Failure_Prediction&theme=dark)](https://github.com/Nayemhasan/Heart_Failure_Prediction)
+
+
 
 
 
