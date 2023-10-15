@@ -1,5 +1,5 @@
 ### Hello, NAYEM here!👋
-<img src="melon/picme.png" width="100" height="100">
+<img src="melon/picme.png">
 & welcome to my GitHub profile! 
 
 ### About Me🍉
