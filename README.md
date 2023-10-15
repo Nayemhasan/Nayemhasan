@@ -21,7 +21,7 @@
 </div>
 
 ### My Pins📌
-Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
+Here🔻, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
 <br>
 <details>
 <summary>Some cool stuffz for windows pc's🖥</summary>
