@@ -4,11 +4,13 @@
          <img src="melon/picme.png">
          Hello, NAYEM here!👋 & welcome to my GitHub profile!</td>
       <td>About Me🍉
-         🍊 born in Bangladesh
-         🍉 loves minimalism, speed & optimization
-         💻 ui~ux & computer enthusiast
-         🌳 looking for balance in life</td>
-  </tr>
+          <ul>
+            <li>🍊 Born in Bangladesh</li>
+            <li>🍉 Loves minimalism, speed & optimization</li>
+            <li>💻 UI/UX & computer enthusiast</li>
+            <li>🌳 Looking for balance in life</li>
+          </ul></td>
+    </tr>
 </table>
 
 ### My Pins📌
