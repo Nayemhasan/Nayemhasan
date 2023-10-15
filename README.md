@@ -15,7 +15,6 @@
   <li>💻 UI/UX & computer enthusiast</li>
   <li>🌳 Looking for balance in life</li>
 </ul>
-
       </td>
     </tr>
   </table>
