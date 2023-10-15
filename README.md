@@ -7,6 +7,7 @@ Here are some cool Magisk modules to amp up your phone experience!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Increase_Touch_Sample_Rate&theme=dark)](https://github.com/Nayemhasan/Increase_Touch_Sample_Rate)
 
 <br>
+
 ### Baked 🍉 for My beloved Asus Rog Phone II
 Goodies tailor-made for the Asus ROG 2!
 
