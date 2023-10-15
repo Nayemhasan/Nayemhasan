@@ -6,13 +6,16 @@
   <p>Hello, NAYEM here!👋<br>& welcome to my GitHub profile!</p>
 </div>
 </td>
-      <td>   About Me🍉
-          <ul>
-            <li>🍊 Born in Bangladesh</li>
-            <li>🍉 Loves minimalism, speed & optimization</li>
-            <li>💻 UI/UX & computer enthusiast</li>
-            <li>🌳 Looking for balance in life</li>
-          </ul></td>
+     <td style="vertical-align: top;">
+  <h2>About Me🍉</h2>
+  <ul>
+    <li>🍊 Born in Bangladesh</li>
+    <li>🍉 Loves minimalism, speed & optimization</li>
+    <li>💻 UI/UX & computer enthusiast</li>
+    <li>🌳 Looking for balance in life</li>
+  </ul>
+</td>
+
     </tr>
 </table>
 
