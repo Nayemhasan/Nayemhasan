@@ -1,17 +1,16 @@
-<div style="display: flex; align-items: center;">
-  <img src="melon/picme.png" alt="Profile Image">
-  <div>
-    <h3>Hello, NAYEM here!👋</h3>
-    <p>Welcome to my GitHub profile!</p>
-    <h3>About Me🍉</h3>
-    <ul>
-      <li>🍊 Born in Bangladesh</li>
-      <li>🍉 Loves minimalism, speed & optimization</li>
-      <li>💻 UI/UX & computer enthusiast</li>
-      <li>🌳 Looking for balance in life</li>
-    </ul>
-  </div>
-</div>
+### Hello, NAYEM here!👋
+<img src="melon/picme.png">
+& welcome to my GitHub profile! 
+
+### About Me🍉
+
+🍊 born in Bangladesh
+
+🍉 loves minimalism, speed & optimization
+
+💻 ui~ux & computer enthusiast
+
+🌳 looking for balance in life
 
 
 ### My Pins📌
