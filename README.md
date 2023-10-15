@@ -1,23 +1,15 @@
-
 <table>
    <tr>
-      <td>### Hello, NAYEM here!👋
-<img src="melon/picme.png">
-& welcome to my GitHub profile! 
-</td>
-      <td>### About Me🍉
-
-🍊 born in Bangladesh
-
-🍉 loves minimalism, speed & optimization
-
-💻 ui~ux & computer enthusiast
-
-🌳 looking for balance in life</td>
+      <td>
+         <img src="melon/picme.png">
+         Hello, NAYEM here!👋 & welcome to my GitHub profile!</td>
+      <td>About Me🍉
+         🍊 born in Bangladesh
+         🍉 loves minimalism, speed & optimization
+         💻 ui~ux & computer enthusiast
+         🌳 looking for balance in life</td>
   </tr>
 </table>
-
-
 
 ### My Pins📌
 Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
