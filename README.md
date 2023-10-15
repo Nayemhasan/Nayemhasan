@@ -20,7 +20,8 @@ Please explore these repositories, and feel free to contribute or open issues if
 
 You can see an overview of my GitHub activity below, including my recent commits, pull requests, and issues.
 
-![GitHub Activity Graph](link_to_activity_graph.png)
+![GitHub Activity Graph](https://github.com/users/<Nayemhasan>/contributions)
+
 
 ## Contact
 
