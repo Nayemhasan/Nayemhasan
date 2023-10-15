@@ -66,6 +66,15 @@ An working webapp backed with ai to help you understand your heart❤
 
 
 
+<details>
+  <summary style="font-size: 1.2rem; font-weight: bold; background-color: #f0f0f0; padding: 10px; border: 1px solid #ddd; border-radius: 5px; cursor: pointer;">Click to expand dropdown</summary>
+
+  <ul style="list-style: none; margin: 0; padding: 0;">
+    <li style="padding: 5px 0;">Item 1</li>
+    <li style="padding: 5px 0;">Item 2</li>
+    <li style="padding: 5px 0;">Item 3</li>
+  </ul>
+</details>
 
 
 
