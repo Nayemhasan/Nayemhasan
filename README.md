@@ -9,11 +9,6 @@ Here are some cool Magisk modules to amp up your phone experience!
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=&theme=dark)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=&theme=dark)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=&theme=dark)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=&theme=dark)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=&theme=dark)]()
 
 
 
