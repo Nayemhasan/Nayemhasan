@@ -27,11 +27,11 @@ Here, you can find a collection of my open-source projects and explore my GitHub
 <summary>Some cool stuffz for windows pc's🖥</summary>
 Here are some awesome Windows apps/mods to enhance your computer experience!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=watermelonvault&repo=Melon_booster&theme=shadow_red )](https://github.com/watermelonvault/Melon_booster)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=All_Black_Chrome_themes&theme=shadow_red )](https://github.com/Nayemhasan/All_Black_Chrome_themes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=All_Black_Firefox_Rounded_themes&theme=shadow_red )](https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Hp_elitebook_840G5MAX&theme=shadow_red )](https://github.com/Nayemhasan/Hp_elitebook_840G5MAX)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=SublimeText_Black_GitHubTheme&theme=shadow_red )](https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=watermelonvault&repo=Melon_booster&theme=chartreuse-dark )](https://github.com/watermelonvault/Melon_booster)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=All_Black_Chrome_themes&theme=chartreuse-dark )](https://github.com/Nayemhasan/All_Black_Chrome_themes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=All_Black_Firefox_Rounded_themes&theme=chartreuse-dark )](https://github.com/Nayemhasan/All_Black_Firefox_Rounded_themes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Hp_elitebook_840G5MAX&theme=chartreuse-dark )](https://github.com/Nayemhasan/Hp_elitebook_840G5MAX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=SublimeText_Black_GitHubTheme&theme=chartreuse-dark )](https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme
 )
 </details>
 
@@ -39,26 +39,26 @@ Here are some awesome Windows apps/mods to enhance your computer experience!
 <summary>Cool Magisk Modules⚡</summary>
 Here are some cool Magisk modules to amp up your phone experience!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Bootloop_Protector_Reborn&theme=shadow_red )](https://github.com/Nayemhasan/Bootloop_Protector_Reborn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Disable_Zram&theme=shadow_red )](https://github.com/Nayemhasan/Disable_Zram)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Disable-HWOverlays&theme=shadow_red )](https://github.com/Nayemhasan/Disable-HWOverlays)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Increase_Touch_Sample_Rate&theme=shadow_red )](https://github.com/Nayemhasan/Increase_Touch_Sample_Rate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Project_Atlas&theme=shadow_red )](https://github.com/Nayemhasan/Project_Atlas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Bootloop_Protector_Reborn&theme=chartreuse-dark )](https://github.com/Nayemhasan/Bootloop_Protector_Reborn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Disable_Zram&theme=chartreuse-dark )](https://github.com/Nayemhasan/Disable_Zram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Disable-HWOverlays&theme=chartreuse-dark )](https://github.com/Nayemhasan/Disable-HWOverlays)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Increase_Touch_Sample_Rate&theme=chartreuse-dark )](https://github.com/Nayemhasan/Increase_Touch_Sample_Rate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Project_Atlas&theme=chartreuse-dark )](https://github.com/Nayemhasan/Project_Atlas)
 </details>
 
 <details>
 <summary>Baked 🍉 for My beloved Asus Rog Phone II</summary>
 Goodies tailor-made for the Asus ROG 2!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=VoLTE-enabler-for-Asus-Rog2&theme=shadow_red )](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=BypassCharging_for_AsusRogII&theme=shadow_red )](https://github.com/Nayemhasan/BypassCharging_for_AsusRogII)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Dualband_wifi_enabler_RogII&theme=shadow_red )](https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Auto-Refresh-Rate-enabler-for-Asus-Rog2&theme=shadow_red )](https://github.com/Nayemhasan/Auto-Refresh-Rate-enabler-for-Asus-Rog2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=VoLTE-enabler-for-Asus-Rog2&theme=chartreuse-dark )](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=BypassCharging_for_AsusRogII&theme=chartreuse-dark )](https://github.com/Nayemhasan/BypassCharging_for_AsusRogII)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Dualband_wifi_enabler_RogII&theme=chartreuse-dark )](https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Auto-Refresh-Rate-enabler-for-Asus-Rog2&theme=chartreuse-dark )](https://github.com/Nayemhasan/Auto-Refresh-Rate-enabler-for-Asus-Rog2)
 </details>
 
 <details>
 <summary>Complete project with AI🚀</summary>
 An working webapp backed with ai to help you understand your heart❤
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Heart_Failure_Prediction&theme=shadow_red )](https://github.com/Nayemhasan/Heart_Failure_Prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Heart_Failure_Prediction&theme=chartreuse-dark )](https://github.com/Nayemhasan/Heart_Failure_Prediction)
 </details>
