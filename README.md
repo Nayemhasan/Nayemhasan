@@ -33,6 +33,7 @@ Here are some awesome Windows apps/mods to enhance your computer experience!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Hp_elitebook_840G5MAX&theme=swift)](https://github.com/Nayemhasan/Hp_elitebook_840G5MAX)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=SublimeText_Black_GitHubTheme&theme=swift)](https://github.com/Nayemhasan/SublimeText_Black_GitHubTheme
 )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Melon-PowerPlan-for-Windows&theme=swift)](https://github.com/Nayemhasan/Melon-PowerPlan-for-Windows)
 </details>
 
 <details>
