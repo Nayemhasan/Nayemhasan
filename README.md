@@ -1,7 +1,6 @@
 <details>
 <summary>Some cool stuffz for windows pc's🍉</summary>
 Here are some awesome Windows apps/mods to enhance your computer experience!
-<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=watermelonvault&repo=Melon_booster&theme=dark)](https://github.com/watermelonvault/Melon_booster)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=All_Black_Chrome_themes&theme=dark)](https://github.com/Nayemhasan/All_Black_Chrome_themes)
