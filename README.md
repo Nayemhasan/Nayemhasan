@@ -1,3 +1,19 @@
+### Hello, NAYEM here!👋
+& welcome to my GitHub profile! 
+
+### About Me🍉
+
+🍊 born in Bangladesh
+
+🍉 loves minimalism, speed & optimization
+
+💻 ui~ux & computer enthusiast
+
+🌳 looking for balance in life
+
+### My Pins📌
+Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
+<br>
 <details>
 <summary>Some cool stuffz for windows pc's🖥</summary>
 Here are some awesome Windows apps/mods to enhance your computer experience!
@@ -36,6 +52,17 @@ An working webapp backed with ai to help you understand your heart❤
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Heart_Failure_Prediction&theme=dark)](https://github.com/Nayemhasan/Heart_Failure_Prediction)
 </details>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
