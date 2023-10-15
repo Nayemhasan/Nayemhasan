@@ -3,8 +3,7 @@
       <td>
          <div style="display: flex; align-items: center;">
   <img src="melon/picme.png" style="margin-right: 10px;">
-  <p>Hello, NAYEM here!👋</p>
-  <p>& welcome to my GitHub profile!</p>
+  <p>Hello, NAYEM here!👋<br>& welcome to my GitHub profile!</p>
 </div>
 </td>
       <td>   About Me🍉
