@@ -1,8 +1,8 @@
-### Welcome to My GitHub
+### Welcome to My GitHub👋
 
 Hello, NAYEM here! and welcome to my GitHub profile! 
 
-### About Me
+### About Me🍉
 
 🍊 born in Bangladesh
 
@@ -14,8 +14,6 @@ Hello, NAYEM here! and welcome to my GitHub profile!
 
 ### My Pins📌
 Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
-
-<br>
 
 ### Some cool stuffz for windows pc's🍉
 Here are some awesome Windows apps/mods to enhance your computer experience!
