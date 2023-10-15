@@ -9,19 +9,13 @@
       </td>
       <td style="vertical-align: top;">
         <h3 align="center">About Me🍉</h3>
-        <ul class="no-bullets">
-  <li>🍊 Born in Bangladesh</li>
-  <li>🍉 Loves minimalism, speed & optimization</li>
-  <li>💻 UI/UX & computer enthusiast</li>
-  <li>🌳 Looking for balance in life</li>
-</ul>
-
-<style>
-  .no-bullets {
-    list-style-type: none;
-  }
-</style>
-</td>
+        <ul>
+          <li>🍊 Born in Bangladesh</li>
+          <li>🍉 Loves minimalism, speed & optimization</li>
+          <li>💻 UI/UX & computer enthusiast</li>
+          <li>🌳 Looking for balance in life</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </div>
