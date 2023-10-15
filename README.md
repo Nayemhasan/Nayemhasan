@@ -1,6 +1,5 @@
 ### Hello, NAYEM here!👋
-![](https://github.com/Nayemhasan/Nayemhasan/blob/main/melon/picme.png)
-
+<img src="(https://github.com/Nayemhasan/Nayemhasan/blob/main/melon/picme.png" width="100" height="100">
 & welcome to my GitHub profile! 
 
 ### About Me🍉
