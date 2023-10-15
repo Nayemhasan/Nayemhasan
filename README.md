@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-    <img src="melon/picme.png" style="width: 200px; height: 200px; margin-right: 20px;">
+    <img src="melon/picme.png" margin-right: 20px;">
     <div>
         <h3>Hello, NAYEM here!👋</h3>
         <p>Welcome to my GitHub profile!</p>
