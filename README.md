@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile
+### Welcome to My GitHub
 
-Hello, and welcome to my GitHub profile! Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
+Hello, NAYEM here! and welcome to my GitHub profile! Here, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
 
 ### About Me
 
@@ -12,7 +12,7 @@ Hello, and welcome to my GitHub profile! Here, you can find a collection of my o
 
 🌳 looking for balance in life
 
-
+### My Pins📌
 
 ### Some cool stuffz for windows pc's🍉
 Here are some awesome Windows apps/mods to enhance your computer experience!
