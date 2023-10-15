@@ -2,8 +2,8 @@
    <tr>
       <td>
          <img src="melon/picme.png">
-         Hello, NAYEM here!👋 & welcome to my GitHub profile!</td>
-      <td>About Me🍉
+             Hello, NAYEM here!👋 & welcome to my GitHub profile!</td>
+      <td>   About Me🍉
           <ul>
             <li>🍊 Born in Bangladesh</li>
             <li>🍉 Loves minimalism, speed & optimization</li>
