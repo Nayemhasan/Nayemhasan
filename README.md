@@ -24,7 +24,7 @@
 Here🔻, you can find a collection of my open-source projects and explore my GitHub activity over time. Feel free to browse, fork, or contribute to any of my repositories. If you have any questions or feedback, don't hesitate to reach out.
 <br>
 <details>
-<summary>Some cool stuffz for windows pc's🖥</summary>
+<summary>📌Some cool stuffz for windows pc's🖥</summary>
 Here are some awesome Windows apps/mods to enhance your computer experience!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=watermelonvault&repo=Melon_booster&theme=swift)](https://github.com/watermelonvault/Melon_booster)
@@ -35,7 +35,7 @@ Here are some awesome Windows apps/mods to enhance your computer experience!
 </details>
 
 <details>
-<summary>Cool Magisk Modules⚡</summary>
+<summary>📌Cool Magisk Modules⚡</summary>
 Here are some cool Magisk modules to amp up your phone experience!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Bootloop_Protector_Reborn&theme=swift)](https://github.com/Nayemhasan/Bootloop_Protector_Reborn)
@@ -46,7 +46,7 @@ Here are some cool Magisk modules to amp up your phone experience!
 </details>
 
 <details>
-<summary>Baked 🍉 for My beloved Asus Rog Phone II</summary>
+<summary>📌Baked 🍉 for My beloved Asus Rog Phone II</summary>
 Goodies tailor-made for the Asus ROG 2!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=VoLTE-enabler-for-Asus-Rog2&theme=swift)](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2)
@@ -56,7 +56,7 @@ Goodies tailor-made for the Asus ROG 2!
 </details>
 
 <details>
-<summary>Complete project with AI🚀</summary>
+<summary>📌Complete project with AI🚀</summary>
 An working webapp backed with ai to help you understand your heart❤
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Heart_Failure_Prediction&theme=swift)](https://github.com/Nayemhasan/Heart_Failure_Prediction)
