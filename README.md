@@ -56,7 +56,7 @@ Goodies tailor-made for the Asus ROG 2!
 </details>
 
 <details>
-<summary>📌Complete project with AI🚀</summary>
+<summary>📌Complete project with ML🚀</summary>
 An working webapp backed with ai to help you understand your heart❤
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nayemhasan&repo=Heart_Failure_Prediction&theme=swift)](https://github.com/Nayemhasan/Heart_Failure_Prediction)
